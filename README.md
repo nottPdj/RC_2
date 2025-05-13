@@ -1,1 +1,1 @@
-# RC_2
+This project was carried out within the scope of the Computer Networks course unit, which aims to develop an application that implements the FTP protocol as described in RFC959, as well as the configuration and analysis of a computer network.
